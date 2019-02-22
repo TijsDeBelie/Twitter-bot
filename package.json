@@ -1,0 +1,18 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "A first draft of the twitterbot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter"
+  ],
+  "author": "TijsDeBelie",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
